@@ -1,2 +1,0 @@
-# wages
-wages_calculation
